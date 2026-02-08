@@ -1,0 +1,53 @@
+# Data folders
+10k/
+bdd_seg_6cls_final/
+bdd_seg_final/
+bdd_seg_ready/
+bdd100k_labels/
+bdd100k_segmentation/
+custom_bd100k/
+demo/
+
+# Credentials and API keys
+kaggle_api.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
