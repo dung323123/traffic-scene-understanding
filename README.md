@@ -233,7 +233,7 @@ DeepLab is primarily used for **road and sidewalk**, where performance is suffic
 - Raw traffic video (no annotations required)
 
 **Output**:
-- Overlay video with detections, tracking IDs, semantic context, and alerts
+- Overlay video with detections, tracking IDs, semantic context, and alerts. Link: https://drive.google.com/drive/folders/1oskZTnyBzhOaHizTjpxL7t8G7J1Zp5Cn?usp=sharing
 - Event log (JSONL/CSV), e.g.:
 
 ```json
